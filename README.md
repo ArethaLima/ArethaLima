@@ -18,6 +18,7 @@
   <img align="center" alt="Aretha-SQL" height="30" width="70" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 </div>  
 
+ ##
 
  <div>
    <a href="https://www.linkedin.com/in/aretha-lima-giacon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
