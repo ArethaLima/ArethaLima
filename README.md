@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Aretha Lima 
 
 
-- 🌱 Estudando atualmente na FIAP no curso de Análise e Desenvolvimento de Sistemas 
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas / FIAP 
 - 😄 Pronouns: ela/dela
 
 
