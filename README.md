@@ -1,7 +1,6 @@
 ## Oi! Eu sou a Aretha Lima 
 
 
-- 🔭  Hoje estou em transição  de carreira 
 - 🌱 Estudando atualmente na FIAP no curso de Análise e Desenvolvimento de Sistemas 
 - 😄 Pronouns: ela/dela
 
