@@ -1,4 +1,4 @@
-## Oiii eu sou a Aretha Lima Giacon, estudante de Análise e Desenvolvimento de Sistemas! 
+## Olá, eu sou a Aretha Lima, estudante de Análise e Desenvolvimento de Sistemas! 
 
 
 <div style="display: inline_block"><br>
