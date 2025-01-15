@@ -1,4 +1,4 @@
-## Olá, eu sou a Aretha Lima, estudante de Análise e Desenvolvimento de Sistemas! 
+## Olá, eu sou a Aretha Lima, desenvolvedora de sistemas!  
 
 
 <div style="display: inline_block"><br>
